@@ -58,6 +58,6 @@ let vc = UIViewController(screenType: .phone3_5, NavbarVisibility: .withNavigati
 
  ## Help, feedback or suggestions?
 
-- [Open an issue](https://github.com/agisislaos/PlayView/issues/new) if you need help, if you found a bug, or if you want to discuss a feature request.
+- [Open an issue](https://github.com/agisilaos/PlayView/issues/new) if you need help, if you found a bug, or if you want to discuss a feature request.
 - [Open a PR](https://github.com/agisilaos/PlayView/pull/new/master) if you want to make some change to PlayView.
 - Contact [@agisilaosts on Twitter](https://twitter.com/agisilaosts) for discussions, news & announcements about PlayView & other projects.
