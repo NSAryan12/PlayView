@@ -4,7 +4,7 @@ Welcome to PlayView, a more convenient way to have a View Controller in whatever
 
 Even though inside an Xcode project it's easy to change the dimensions & the orientation of a View Controller, inside a playground it's the exact opposite and this is exactly what PlayView makes so simple.
 
-![image](Xcode_screenshot.png)
+![image](PlayView_screenshot.png)
 
 ## Usage
 
