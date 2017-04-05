@@ -9,7 +9,7 @@
  
  **Installation**
  
- Add the `PlaView.swift` file to the `Sources` folder in your playground to **easily** produce live views for any iPhone or iPad device.
+ Add the `PlayView.swift` file to the `Sources` folder in your playground to **easily** produce live views for any iPhone or iPad device.
  
  **Sizes**
  
